@@ -3,5 +3,7 @@ package ProjetoFinanceiroJava;
 public enum Category {
     FOOD,
     UTILITIES,
-    INCOME
+    INCOME,
+    TRANSPORT,
+    ENTERTAINMENT
 }
